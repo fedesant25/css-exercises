@@ -9,12 +9,23 @@ body {
   margin: 16px auto;
 }
 
+div {
+  padding: 5px;
+  margin-bottom: 10px;
+  text-align: center;
+  color: white;
+}
+
 .title,
 .content,
 .button-container {
   background: dodgerblue;
+  font-size: 16px;
+  color: black;
 }
 
 button {
   background: white;
+  display: block;
+  margin: 0 auto;
 }
